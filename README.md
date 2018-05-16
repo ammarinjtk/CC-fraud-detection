@@ -10,7 +10,7 @@ Also I have provided Deep learning model, in Classification.ipynb, to actually h
 
 ## Authors
 
-* **Ammarin Jetthakun** - *Initial work* - [ammarinjtk](https://github.com/ammarinjtk)
+* **Amarin Jettakul** - *Initial work* - [ammarinjtk](https://github.com/ammarinjtk)
 
 See also the list of [contributors](https://github.com/ammarinjtk/Credit-Card-Fraud-Detection/graphs/contributors) who participated in this project.
 
