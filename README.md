@@ -4,8 +4,11 @@ Credit Card Fraud Detection using SOM(unsupervised) and Deep learning(supervised
 
 ## Short introduction
 ```
-The project aims to see how well Self-Organising-Map(SOM), which is unsupervised model, can work in credit card fraud detection problem, which is supervised problem, in Self_organising_map.ipynb.
-Also I have provided Deep learning model, in Classification.ipynb, to actually how well Supervised model can handle this problem, and we expected that Supervised model should give better performance.
+The project aims to see how well Self-Organising-Map(SOM), which is unsupervised model, can work 
+in credit card fraud detection problem, which is supervised problem, in Self_organising_map.ipynb.
+Also I have provided Deep learning model, in Classification.ipynb, to actually how well 
+Supervised model can handle this problem, and we expected that Supervised model should 
+give better performance.
 ```
 
 ## Authors
